@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Award, Shield, Clock, Zap } from 'lucide-react';
 
 const badges = [
-    { icon: Award, title: 'ISO Certified', desc: 'Quality assured processes' },
+    { icon: Award, title: 'Quality', desc: 'Quality assured processes' },
     { icon: Shield, title: '100% Secure', desc: 'Enterprise-grade security' },
     { icon: Clock, title: 'On-Time Delivery', desc: '98% on-time project completion' },
     { icon: Zap, title: 'Fast Support', desc: '24/7 dedicated support team' },
